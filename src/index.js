@@ -1,3 +1,8 @@
+//npm install express
+//npm install cors
+//npm install socket.io@latest
+//node ./src/index.js
+//composer require elephantio/elephant.io
 const express = require('express');
 const { createServer } = require('node:http');
 const { join } = require('node:path');
